@@ -5,8 +5,9 @@ Exercises for the Text Mining course
 - 01 NLP whit NLTK
 - 02 Text classification whit Sklearn
 - 03 Word representations whit Gensim
-- 04 RNN - Sentiment model
-- 05 RNN - Word tagging
+- 04 RNN whit Keras
+  - Sentiment model
+  - Word tagging
 - 99 Homework
 
 
