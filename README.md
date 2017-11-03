@@ -13,7 +13,11 @@ Exercises for the Text Mining course
 
 # Anaconda environment
 
-- Install anaconda
+- Install anaconda. 
+  - Optional, install jupyter extensions
+  ```
+  conda install conda_nb
+  ```  	
 - Create the environment
 
 ```
