@@ -26,6 +26,8 @@ conda install anaconda-nb-extensions -c nb-conda
 conda create -n tm python=3.6
 activate tm
 
+conda install pip
+
 conda install graphviz
 conda install pandas scikit-learn
 conda install -c anaconda jupyter 
