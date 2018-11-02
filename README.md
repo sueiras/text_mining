@@ -12,6 +12,19 @@ Exercises for the Text Mining course
 
 
 
+# Instructions to use the AWS environment
+
+https://github.com/sueiras/training/blob/master/docs/aws.md
+
+https://github.com/sueiras/training/blob/master/docs/install_tensorflow_ubuntu_aws.md
+
+### AWS AMI for this course:
+- region: Ireland
+- AMI id: ami-8eb287f7
+- Name: sueiras-test-mining
+
+
+
 # Anaconda environment
 
 1.- Install anaconda3 last version. All default options.
