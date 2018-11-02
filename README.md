@@ -20,7 +20,7 @@ https://github.com/sueiras/training/blob/master/docs/install_tensorflow_ubuntu_a
 
 ### AWS AMI for this course:
 - region: Ireland
-- AMI id: ami-8eb287f7
+- AMI id: ami-032d465c3dcc16326
 - Name: sueiras-test-mining
 
 
