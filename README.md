@@ -12,30 +12,23 @@ Exercises for the Text Mining course
 
 
 
-# Instructions to use the AWS environment
+# Instructions to use Google colab
 
-https://github.com/sueiras/training/blob/master/docs/aws.md
+Open google colab
 
-https://github.com/sueiras/training/blob/master/docs/install_tensorflow_ubuntu_aws.md
 
-### AWS AMI for this course:
-- region: Ireland
-- AMI id: ami-032d465c3dcc16326
-- Name: sueiras-test-mining
+To make changes and save it the best optios are fork the repository and 
 
 
 
-# Anaconda environment
+# OPTIONAL: Create a local Anaconda environment and install text mining packages
 
-1.- Install anaconda3 last version. All default options.
+Note: To install spacy you need administrator privileges. If not, check 
 
-2.- Start an Anaconda terminal and execute...
+
+Open an Anaconda terminal and execute
 
 ```
-# Install jupyter extensions 
-conda install anaconda-nb-extensions -c nb-conda
-
-# Create environment and install text mining packages
 conda create -n tm python=3.6
 activate tm
 
@@ -64,7 +57,7 @@ pip install --ignore-installed --upgrade tensorflow
 ```
 
 
-# Download the next linguistic resources from the web and unzip in the data directory:
+# OPTIONAL: To execute notebooks in local download the next linguistic resources from the web and unzip in the data directory:
   - [aclImdb corpus (41Mb)](https://s3-eu-west-1.amazonaws.com/text-mining-course/aclImdb.zip)
   - [Sentiment corpus (65Mb)](https://s3-eu-west-1.amazonaws.com/text-mining-course/sentiment_corpus.zip)
   - [ATIS database](https://s3-eu-west-1.amazonaws.com/text-mining-course/atis.zip)
