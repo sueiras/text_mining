@@ -1,6 +1,6 @@
 # Text Mining
 
-Exercises for the Text Mining course
+Notebooks to the Text Mining course
 
 - 01 NLP whit NLTK
 - 02 Text classification whit Sklearn
@@ -10,13 +10,20 @@ Exercises for the Text Mining course
   - Word tagging
 - 99 Homework
 
-## Instructions to use Google colab
+## Instructions to use Google Colab
 
-Open google colab
+- Open: https://colab.research.google.com/
+- In the load notebook screen select the tag github
+- Find: sueiras/text_mining
+- Select the notebook to open.
+- To execute the notebooks with RNN change te 
 
-To make changes and save it the best way are fork the repository and work in the copy
+If you want to make changes in the repository and save it, the best way are fork the repository in your github account and work in the forked copy as usual with git.
+
 
 ## OPTIONAL: Create a local Anaconda environment and install text mining packages
+
+To execute the notebooks in local you need a local python environment with the required packages.
 
 Open an Anaconda terminal and execute
 
